@@ -1,5 +1,5 @@
 /* ═══════════════════════════════════════════
-   UNAB — styles.css
+   styles.css
    Estudiantes Universidad Nacional Guillermo Brown
 ═══════════════════════════════════════════ */
 
@@ -170,3 +170,30 @@ footer strong   { color:#fff; }
 /* ── RESPONSIVE ─────────────────────────── */
 @media (max-width:991px) { .nav-user-chip .role-badge, .nav-user-chip .user-name { display:none; } }
 @media (max-width:575px)  { .hero { padding:55px 16px 50px; } section { padding:42px 0; } .sec-title { font-size:1.4rem; } .bib-hero-box { padding:18px; } }
+
+/* ── ADMIN — GESTIÓN DE ARCHIVOS ────────── */
+.admin-upload-box { background:#fff; border:1px solid var(--border); border-radius:12px; padding:24px; box-shadow:0 2px 10px rgba(0,0,0,.05); }
+.adm-materia-block { background:#fff; border:1px solid var(--border); border-radius:8px; overflow:hidden; }
+.adm-materia-header { display:flex; align-items:center; gap:8px; padding:12px 16px; cursor:pointer; background:#f8f9fa; border-bottom:1px solid transparent; transition:.15s; font-size:.9rem; }
+.adm-materia-header:hover { background:var(--light); }
+.adm-materia-body { padding:12px 16px; display:flex; flex-direction:column; gap:6px; }
+.adm-file-row { display:flex; align-items:center; gap:8px; padding:7px 10px; background:#f8f9fa; border:1px solid var(--border); border-radius:6px; font-size:.83rem; }
+.adm-file-name { flex:1; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; max-width:320px; }
+.adm-del-btn { flex-shrink:0; }
+
+/* ── BIBLIOTECA PERSONAL ────────────────── */
+.ulib-card { background:#fff; border:1px solid var(--border); border-radius:12px; padding:20px; height:100%; }
+.ulib-card-title { font-weight:700; font-size:.95rem; margin-bottom:14px; padding-bottom:10px; border-bottom:1px solid var(--border); }
+.ulib-item { display:flex; align-items:center; gap:10px; padding:8px 10px; border-radius:8px; cursor:pointer; transition:.12s; border:1px solid var(--border); margin-bottom:6px; background:#fafafa; }
+.ulib-item:hover { background:var(--light); border-color:var(--blue); }
+.ulib-icon { font-size:1.25rem; flex-shrink:0; }
+.ulib-info { flex:1; min-width:0; }
+.ulib-name { font-size:.85rem; font-weight:600; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+.ulib-sub  { font-size:.74rem; color:var(--gray); }
+.ulib-fav-btn { background:none; border:none; color:#ffc107; font-size:1rem; padding:2px 6px; cursor:pointer; flex-shrink:0; border-radius:6px; transition:.12s; }
+.ulib-fav-btn:hover { background:#fff3cd; }
+
+/* ── BTN FAV PDF (en modal materia) ─────── */
+.btn-fav-pdf { background:none; border:1px solid #dee2e6; color:#aaa; border-radius:6px; padding:4px 9px; cursor:pointer; font-size:.85rem; transition:.15s; flex-shrink:0; }
+.btn-fav-pdf:hover { background:#fff9e6; border-color:#ffc107; color:#ffc107; }
+.btn-fav-pdf.active { background:#fff9e6; border-color:#ffc107; color:#f59e0b; }
