@@ -7,15 +7,42 @@
     "correlativas": [],
     "aprobada": [],
     "materiales": [
-      { "carpeta": "CIENCIA, TECNOLOGIA E INNOVACIÓN", "archivo": "Ciencia, política y cientificismo -Trabajo practico 2025.pdf" },
-      { "carpeta": "CIENCIA, TECNOLOGIA E INNOVACIÓN", "archivo": "CTI - Jawtuschenko.pdf" },
-      { "carpeta": "CIENCIA, TECNOLOGIA E INNOVACIÓN", "archivo": "CTI - Thomas.pdf" },
-      { "carpeta": "CIENCIA, TECNOLOGIA E INNOVACIÓN", "archivo": "cti_digital.pdf" },
-      { "carpeta": "CIENCIA, TECNOLOGIA E INNOVACIÓN", "archivo": "Libro Ciencia Tecnologia y Sociedad.pdf" },
-      { "carpeta": "CIENCIA, TECNOLOGIA E INNOVACIÓN", "archivo": "mazzucato.pdf" },
-      { "carpeta": "CIENCIA, TECNOLOGIA E INNOVACIÓN", "archivo": "Mensaje-Mensaje ambiental a los pueblos - JD Perón 1972.pdf" },
-      { "carpeta": "CIENCIA, TECNOLOGIA E INNOVACIÓN", "archivo": "Metodologia de las Ciencias Sociales E. Diaz.pdf" },
-      { "carpeta": "CIENCIA, TECNOLOGIA E INNOVACIÓN", "archivo": "Rothbard explica la respuesta apropiada al cambio climático.pdf" }
+      {
+        "carpeta": "CIENCIA TECNOLOGIA E INNOVACION",
+        "archivo": "Ciencia, política y cientificismo -Trabajo practico 2025.pdf"
+      },
+      {
+        "carpeta": "CIENCIA TECNOLOGIA E INNOVACION",
+        "archivo": "CTI - Jawtuschenko.pdf"
+      },
+      {
+        "carpeta": "CIENCIA TECNOLOGIA E INNOVACION",
+        "archivo": "CTI - Thomas.pdf"
+      },
+      {
+        "carpeta": "CIENCIA TECNOLOGIA E INNOVACION",
+        "archivo": "cti_digital.pdf"
+      },
+      {
+        "carpeta": "CIENCIA TECNOLOGIA E INNOVACION",
+        "archivo": "Libro Ciencia Tecnologia y Sociedad.pdf"
+      },
+      {
+        "carpeta": "CIENCIA TECNOLOGIA E INNOVACION",
+        "archivo": "mazzucato.pdf"
+      },
+      {
+        "carpeta": "CIENCIA TECNOLOGIA E INNOVACION",
+        "archivo": "Mensaje-Mensaje ambiental a los pueblos - JD Perón 1972.pdf"
+      },
+      {
+        "carpeta": "CIENCIA TECNOLOGIA E INNOVACION",
+        "archivo": "Metodologia de las Ciencias Sociales E. Diaz.pdf"
+      },
+      {
+        "carpeta": "CIENCIA TECNOLOGIA E INNOVACION",
+        "archivo": "Rothbard explica la respuesta apropiada al cambio climático.pdf"
+      }
     ]
   },
   {
@@ -26,10 +53,22 @@
     "correlativas": [],
     "aprobada": [],
     "materiales": [
-      { "carpeta": "MATEMATICA GENERAL", "archivo": "Matemática general Teoria.pdf" },
-      { "carpeta": "MATEMATICA GENERAL", "archivo": "Practica_1_SumatoriasyProductorias.pdf" },
-      { "carpeta": "MATEMATICA GENERAL", "archivo": "Practica_Matrices y determinantes.pdf" },
-      { "carpeta": "MATEMATICA GENERAL", "archivo": "Trabajo Practico_Vectores y NúmerosComplejos.pdf" }
+      {
+        "carpeta": "MATEMATICA GENERAL",
+        "archivo": "Matemática general Teoria.pdf"
+      },
+      {
+        "carpeta": "MATEMATICA GENERAL",
+        "archivo": "Practica_1_SumatoriasyProductorias.pdf"
+      },
+      {
+        "carpeta": "MATEMATICA GENERAL",
+        "archivo": "Practica_Matrices y determinantes.pdf"
+      },
+      {
+        "carpeta": "MATEMATICA GENERAL",
+        "archivo": "Trabajo Practico_Vectores y NúmerosComplejos.pdf"
+      }
     ]
   },
   {
@@ -40,12 +79,38 @@
     "correlativas": [],
     "aprobada": [],
     "materiales": [
-      { "carpeta": "ALGORITMOS Y ESTRUCTURA DE DATOS", "archivo": "Algoritmos y estructuras de datos en Python.pdf" },
-      { "carpeta": "ALGORITMOS Y ESTRUCTURA DE DATOS", "archivo": "AyED-Clase04-U02-Funciones.pdf" },
-      { "carpeta": "ALGORITMOS Y ESTRUCTURA DE DATOS", "archivo": "AyED-Clase05-U02- IF MENU  20_04_2025-1.pdf" },
-      { "carpeta": "ALGORITMOS Y ESTRUCTURA DE DATOS", "archivo": "AyED-Clase8-U03-Recursion.pdf" },
-      { "carpeta": "ALGORITMOS Y ESTRUCTURA DE DATOS", "archivo": "Clase11-Archivos.pdf" },
-      { "carpeta": "ALGORITMOS Y ESTRUCTURA DE DATOS", "archivo": "Parcial 1  2025.pdf" }
+      {
+        "carpeta": "ALGORITMOS Y ESTRUCTURA DE DATOS",
+        "archivo": "Algoritmos y estructuras de datos en Python.pdf"
+      },
+      {
+        "carpeta": "ALGORITMOS Y ESTRUCTURA DE DATOS",
+        "archivo": "AyED-Clase04-U02-Funciones.pdf"
+      },
+      {
+        "carpeta": "ALGORITMOS Y ESTRUCTURA DE DATOS",
+        "archivo": "AyED-Clase05-U02- IF MENU  20_04_2025-1.pdf"
+      },
+      {
+        "carpeta": "ALGORITMOS Y ESTRUCTURA DE DATOS",
+        "archivo": "AyED-Clase8-U03-Recursion.pdf"
+      },
+      {
+        "carpeta": "ALGORITMOS Y ESTRUCTURA DE DATOS",
+        "archivo": "Clase11-Archivos.pdf"
+      },
+      {
+        "carpeta": "ALGORITMOS Y ESTRUCTURA DE DATOS",
+        "archivo": "Parcial 1  2025.pdf"
+      },
+      {
+        "carpeta": "ALGORITMOS Y ESTRUCTURA DE DATOS",
+        "archivo": "1_-_Vectores.pdf"
+      },
+      {
+        "carpeta": "ALGORITMOS Y ESTRUCTURA DE DATOS",
+        "archivo": "TRABAJO_PRACTICO_NRO_1.pdf"
+      }
     ]
   },
   {
@@ -56,8 +121,14 @@
     "correlativas": [],
     "aprobada": [],
     "materiales": [
-      { "carpeta": "ORGANIZACION DE COMPUTADORAS", "archivo": "Conceptos de lenguajes de Bajo Nivel.pdf" },
-      { "carpeta": "ORGANIZACION DE COMPUTADORAS", "archivo": "Organización de una Computadora.pdf" }
+      {
+        "carpeta": "ORGANIZACION DE COMPUTADORAS",
+        "archivo": "Conceptos de lenguajes de Bajo Nivel.pdf"
+      },
+      {
+        "carpeta": "ORGANIZACION DE COMPUTADORAS",
+        "archivo": "Organización de una Computadora.pdf"
+      }
     ]
   },
   {
@@ -65,20 +136,107 @@
     "nombre": "Álgebra",
     "anio": "1° Año",
     "cuatrimestre": "Segundo Cuatrimestre",
-    "correlativas": ["Matemática General"],
+    "correlativas": [
+      "Matemática General"
+    ],
     "aprobada": [],
-    "materiales": []
+    "materiales": [
+      {
+        "carpeta": "ALGEBRA",
+        "archivo": "vectores_trabajo_practico_1.pdf"
+      },
+      {
+        "carpeta": "ALGEBRA",
+        "archivo": "1_-_Vectores.pdf"
+      },
+      {
+        "carpeta": "ALGEBRA",
+        "archivo": "GEOMETRIA.pdf"
+      },
+      {
+        "carpeta": "ALGEBRA",
+        "archivo": "guia-de-ecuacion-de-la-recta_1.pdf"
+      },
+      {
+        "carpeta": "ALGEBRA",
+        "archivo": "TRABAJO_PRACTICO_NRO_1.pdf"
+      },
+      {
+        "carpeta": "ALGEBRA",
+        "archivo": "1.Complejos_2.pdf"
+      },
+      {
+        "carpeta": "ALGEBRA",
+        "archivo": "2.Complejos.pdf"
+      },
+      {
+        "carpeta": "ALGEBRA",
+        "archivo": "TP._2_COMPLEJOS_1.pdf"
+      },
+      {
+        "carpeta": "ALGEBRA",
+        "archivo": "3.MATRICES.PARTE1_1.pdf"
+      },
+      {
+        "carpeta": "ALGEBRA",
+        "archivo": "4.Matrices.Parte2_1_2.pdf"
+      },
+      {
+        "carpeta": "ALGEBRA",
+        "archivo": "TP._3_MATRICES_1_2.pdf"
+      },
+      {
+        "carpeta": "ALGEBRA",
+        "archivo": "6.Espacios_vectoriales-_Parte_1.pdf"
+      },
+      {
+        "carpeta": "ALGEBRA",
+        "archivo": "7.Espacios_vectoriales_-_parte2_1_1.pdf"
+      },
+      {
+        "carpeta": "ALGEBRA",
+        "archivo": "TP._5_2.pdf"
+      },
+      {
+        "carpeta": "ALGEBRA",
+        "archivo": "5.Sistemas_de_Ecuaciones_lineales_2.pdf"
+      },
+      {
+        "carpeta": "ALGEBRA",
+        "archivo": "TP._4_SISTEMA_DE_ECUACIONES_LINEALES_4.pdf"
+      },
+      {
+        "carpeta": "ALGEBRA",
+        "archivo": "8.Transformaciones_lineales.pdf"
+      },
+      {
+        "carpeta": "ALGEBRA",
+        "archivo": "9.Interpretacion_grafica_de_las_transformaciones.pdf"
+      },
+      {
+        "carpeta": "ALGEBRA",
+        "archivo": "TP._6_2.pdf"
+      }
+    ]
   },
   {
     "id": 271,
     "nombre": "Estructura de Datos",
     "anio": "1° Año",
     "cuatrimestre": "Segundo Cuatrimestre",
-    "correlativas": ["Algoritmos y Estructura de Datos"],
+    "correlativas": [
+      "Algoritmos y Estructura de Datos"
+    ],
     "aprobada": [],
     "materiales": [
-      { "carpeta": "ESTRUCTURA DE DATOS", "archivo": "Algoritmos y estructuras de datos en Python.pdf" },
-      { "carpeta": "ESTRUCTURA DE DATOS", "archivo": "Martin Fowler - UML Gota a Gota (2000, Addison Wesley Longman).pdf" }
+      {
+        "carpeta": "ESTRUCTURA DE DATOS",
+        "archivo": "Algoritmos y estructuras de datos en Python.pdf"
+      },
+      {
+        "carpeta": "ESTRUCTURA DE DATOS",
+        "archivo": "Martin Fowler - UML Gota a Gota (2000, Addison Wesley Longman).pdf"
+      }
     ]
   },
   {
@@ -89,12 +247,30 @@
     "correlativas": [],
     "aprobada": [],
     "materiales": [
-      { "carpeta": "INGLES", "archivo": "AFIJOS apuntes.pdf" },
-      { "carpeta": "INGLES", "archivo": "Estrategias de Lectura INGLÉS TÉCNICO I.pdf" },
-      { "carpeta": "INGLES", "archivo": "Estrategias léxicas (parte 1).pdf" },
-      { "carpeta": "INGLES", "archivo": "Estrategias léxicas (parte 2).pdf" },
-      { "carpeta": "INGLES", "archivo": "Pronombres Apunte.pdf" },
-      { "carpeta": "INGLES", "archivo": "Simulacro de parcial 2025.pdf" }
+      {
+        "carpeta": "INGLES",
+        "archivo": "AFIJOS apuntes.pdf"
+      },
+      {
+        "carpeta": "INGLES",
+        "archivo": "Estrategias de Lectura INGLÉS TÉCNICO I.pdf"
+      },
+      {
+        "carpeta": "INGLES",
+        "archivo": "Estrategias léxicas (parte 1).pdf"
+      },
+      {
+        "carpeta": "INGLES",
+        "archivo": "Estrategias léxicas (parte 2).pdf"
+      },
+      {
+        "carpeta": "INGLES",
+        "archivo": "Pronombres Apunte.pdf"
+      },
+      {
+        "carpeta": "INGLES",
+        "archivo": "Simulacro de parcial 2025.pdf"
+      }
     ]
   },
   {
@@ -102,16 +278,39 @@
     "nombre": "Programación Avanzada",
     "anio": "2° Año",
     "cuatrimestre": "Primer Cuatrimestre",
-    "correlativas": ["Algoritmos y Estructura de Datos"],
+    "correlativas": [
+      "Algoritmos y Estructura de Datos"
+    ],
     "aprobada": [],
     "materiales": [
-      { "carpeta": "PROGRAMACIÓN AVANZADA", "archivo": "clase10_patrones_singleton_factory_repository.pdf" },
-      { "carpeta": "PROGRAMACIÓN AVANZADA", "archivo": "guia_uml_unab_diagrama_clases.pdf" },
-      { "carpeta": "PROGRAMACIÓN AVANZADA", "archivo": "UNAB-LCD-PA-Clase-N01.pdf" },
-      { "carpeta": "PROGRAMACIÓN AVANZADA", "archivo": "UNAB-LCD-PA-Clase-N02.pdf" },
-      { "carpeta": "PROGRAMACIÓN AVANZADA", "archivo": "UNAB-LCD-PA-Clase-N03.pdf" },
-      { "carpeta": "PROGRAMACIÓN AVANZADA", "archivo": "UNAB-LCD-PA-Clase-N04.pdf" },
-      { "carpeta": "PROGRAMACIÓN AVANZADA", "archivo": "UNAB-LCD-PA-Clase-N05.pdf" }
+      {
+        "carpeta": "PROGRAMACION AVANZADA",
+        "archivo": "clase10_patrones_singleton_factory_repository.pdf"
+      },
+      {
+        "carpeta": "PROGRAMACION AVANZADA",
+        "archivo": "guia_uml_unab_diagrama_clases.pdf"
+      },
+      {
+        "carpeta": "PROGRAMACION AVANZADA",
+        "archivo": "UNAB-LCD-PA-Clase-N01.pdf"
+      },
+      {
+        "carpeta": "PROGRAMACION AVANZADA",
+        "archivo": "UNAB-LCD-PA-Clase-N02.pdf"
+      },
+      {
+        "carpeta": "PROGRAMACION AVANZADA",
+        "archivo": "UNAB-LCD-PA-Clase-N03.pdf"
+      },
+      {
+        "carpeta": "PROGRAMACION AVANZADA",
+        "archivo": "UNAB-LCD-PA-Clase-N04.pdf"
+      },
+      {
+        "carpeta": "PROGRAMACION AVANZADA",
+        "archivo": "UNAB-LCD-PA-Clase-N05.pdf"
+      }
     ]
   },
   {
@@ -119,10 +318,25 @@
     "nombre": "Probabilidad y Estadística",
     "anio": "2° Año",
     "cuatrimestre": "Primer Cuatrimestre",
-    "correlativas": ["Álgebra"],
-    "aprobada": ["Matemática General"],
+    "correlativas": [
+      "Álgebra"
+    ],
+    "aprobada": [
+      "Matemática General"
+    ],
     "materiales": [
-      { "carpeta": "PROBABILIDAD Y ESTADISTICA", "archivo": "Probabilidad y Estadistica para Ingenieria y Ciencias.pdf" }
+      {
+        "carpeta": "PROBABILIDAD Y ESTADISTICA",
+        "archivo": "Probabilidad y Estadistica para Ingenieria y Ciencias.pdf"
+      },
+      {
+        "carpeta": "PROBABILIDAD Y ESTADISTICA",
+        "archivo": "actividad_CD_26.pdf"
+      },
+      {
+        "carpeta": "PROBABILIDAD Y ESTADISTICA",
+        "archivo": "Textos_modelo_para_la_redaccion_de_un_problema_probabilistico.pdf"
+      }
     ]
   },
   {
@@ -130,16 +344,39 @@
     "nombre": "Desarrollo de Software",
     "anio": "2° Año",
     "cuatrimestre": "Primer Cuatrimestre",
-    "correlativas": ["Algoritmos y Estructura de Datos"],
+    "correlativas": [
+      "Algoritmos y Estructura de Datos"
+    ],
     "aprobada": [],
     "materiales": [
-      { "carpeta": "DESARROLLO DE SOFTWARE", "archivo": "Clase_IV_Fundamentos_Programacion_2026.pdf" },
-      { "carpeta": "DESARROLLO DE SOFTWARE", "archivo": "Clase_V_Paradigmas_Diseno_2026.pdf" },
-      { "carpeta": "DESARROLLO DE SOFTWARE", "archivo": "Clase_VI_Pruebas_Software_2026.pdf" },
-      { "carpeta": "DESARROLLO DE SOFTWARE", "archivo": "Clase_VII_Gestion_Proyectos_2026.pdf" },
-      { "carpeta": "DESARROLLO DE SOFTWARE", "archivo": "Ingenieria de Software-Somerville.pdf" },
-      { "carpeta": "DESARROLLO DE SOFTWARE", "archivo": "Ingenieria del Software. Un Enfoque Practico.pdf" },
-      { "carpeta": "DESARROLLO DE SOFTWARE", "archivo": "Patrones De Diseño - Libro Gamma helm johnson vlissides.pdf" }
+      {
+        "carpeta": "DESARROLLO DE SOFTWARE",
+        "archivo": "Clase_IV_Fundamentos_Programacion_2026.pdf"
+      },
+      {
+        "carpeta": "DESARROLLO DE SOFTWARE",
+        "archivo": "Clase_V_Paradigmas_Diseno_2026.pdf"
+      },
+      {
+        "carpeta": "DESARROLLO DE SOFTWARE",
+        "archivo": "Clase_VI_Pruebas_Software_2026.pdf"
+      },
+      {
+        "carpeta": "DESARROLLO DE SOFTWARE",
+        "archivo": "Clase_VII_Gestion_Proyectos_2026.pdf"
+      },
+      {
+        "carpeta": "DESARROLLO DE SOFTWARE",
+        "archivo": "Ingenieria de Software-Somerville.pdf"
+      },
+      {
+        "carpeta": "DESARROLLO DE SOFTWARE",
+        "archivo": "Ingenieria del Software. Un Enfoque Practico.pdf"
+      },
+      {
+        "carpeta": "DESARROLLO DE SOFTWARE",
+        "archivo": "Patrones De Diseño - Libro Gamma helm johnson vlissides.pdf"
+      }
     ]
   },
   {
@@ -148,9 +385,14 @@
     "anio": "2° Año",
     "cuatrimestre": "Primer Cuatrimestre",
     "correlativas": [],
-    "aprobada": ["Inglés"],
+    "aprobada": [
+      "Inglés"
+    ],
     "materiales": [
-      { "carpeta": "INGLES COMUNICACIONAL", "archivo": "1_English_for_Information_Technology_Elementa.pdf" }
+      {
+        "carpeta": "INGLES COMUNICACIONAL",
+        "archivo": "1_English_for_Information_Technology_Elementa.pdf"
+      }
     ]
   },
   {
@@ -158,8 +400,12 @@
     "nombre": "Gestión de Datos",
     "anio": "2° Año",
     "cuatrimestre": "Segundo Cuatrimestre",
-    "correlativas": ["Estructura de Datos"],
-    "aprobada": ["Algoritmos y Estructura de Datos"],
+    "correlativas": [
+      "Estructura de Datos"
+    ],
+    "aprobada": [
+      "Algoritmos y Estructura de Datos"
+    ],
     "materiales": []
   },
   {
@@ -167,8 +413,13 @@
     "nombre": "Inferencia Estadística y Reconocimiento de Patrones",
     "anio": "2° Año",
     "cuatrimestre": "Segundo Cuatrimestre",
-    "correlativas": ["Estructura de Datos", "Probabilidad y Estadística"],
-    "aprobada": ["Algoritmos y Estructura de Datos"],
+    "correlativas": [
+      "Estructura de Datos",
+      "Probabilidad y Estadística"
+    ],
+    "aprobada": [
+      "Algoritmos y Estructura de Datos"
+    ],
     "materiales": []
   },
   {
@@ -176,8 +427,13 @@
     "nombre": "Visualización de la Información",
     "anio": "2° Año",
     "cuatrimestre": "Segundo Cuatrimestre",
-    "correlativas": ["Estructura de Datos", "Programación Avanzada"],
-    "aprobada": ["Algoritmos y Estructura de Datos"],
+    "correlativas": [
+      "Estructura de Datos",
+      "Programación Avanzada"
+    ],
+    "aprobada": [
+      "Algoritmos y Estructura de Datos"
+    ],
     "materiales": []
   },
   {
@@ -185,7 +441,9 @@
     "nombre": "Sistemas Operativos",
     "anio": "3° Año",
     "cuatrimestre": "Primer Cuatrimestre",
-    "correlativas": ["Gestión de Datos"],
+    "correlativas": [
+      "Gestión de Datos"
+    ],
     "aprobada": [],
     "materiales": []
   },
@@ -196,7 +454,40 @@
     "cuatrimestre": "Primer Cuatrimestre",
     "correlativas": [],
     "aprobada": [],
-    "materiales": []
+    "materiales": [
+      {
+        "carpeta": "REDES DE COMPUTADORAS",
+        "archivo": "Apunte_de_Catedra_-_Conectividad_Inalambrica_Red_Movil_vs._Wi-Fi_7cacb6bddd942112148d280edf6fd105.pdf"
+      },
+      {
+        "carpeta": "REDES DE COMPUTADORAS",
+        "archivo": "Redes_de_Computadoras_Completo_1.pdf"
+      },
+      {
+        "carpeta": "REDES DE COMPUTADORAS",
+        "archivo": "Modelos_de_Referencia_OSI_y_TCP-IP_-_Descripcion_General.pdf"
+      },
+      {
+        "carpeta": "REDES DE COMPUTADORAS",
+        "archivo": "4_-_Modelos_OSI_y_TCP-IP_Cap_1_Tanenbaum.pdf"
+      },
+      {
+        "carpeta": "REDES DE COMPUTADORAS",
+        "archivo": "Introduccion_a_las_Redes_1.pdf"
+      },
+      {
+        "carpeta": "REDES DE COMPUTADORAS",
+        "archivo": "Introduccion_a_las_Redes_-_Guia_de_Lectura_2.pdf"
+      },
+      {
+        "carpeta": "REDES DE COMPUTADORAS",
+        "archivo": "Capa_1_del_Modelo_OSI_-_La_Capa_Fisica_Capitulo_2.pdf"
+      },
+      {
+        "carpeta": "REDES DE COMPUTADORAS",
+        "archivo": "Capa_1_del_Modelo_OSI_-_La_Capa_Fisica_-_Guia_de_Lectura.pdf"
+      }
+    ]
   },
   {
     "id": 277,
@@ -204,7 +495,10 @@
     "anio": "3° Año",
     "cuatrimestre": "Primer Cuatrimestre",
     "correlativas": [],
-    "aprobada": ["Estructura de Datos", "Programación Avanzada"],
+    "aprobada": [
+      "Estructura de Datos",
+      "Programación Avanzada"
+    ],
     "materiales": []
   },
   {
@@ -212,8 +506,13 @@
     "nombre": "Programación Concurrente",
     "anio": "3° Año",
     "cuatrimestre": "Segundo Cuatrimestre",
-    "correlativas": ["Sistemas Operativos", "Redes de Computadoras"],
-    "aprobada": ["Programación Avanzada"],
+    "correlativas": [
+      "Sistemas Operativos",
+      "Redes de Computadoras"
+    ],
+    "aprobada": [
+      "Programación Avanzada"
+    ],
     "materiales": []
   },
   {
@@ -221,7 +520,9 @@
     "nombre": "Inteligencia Artificial",
     "anio": "3° Año",
     "cuatrimestre": "Segundo Cuatrimestre",
-    "correlativas": ["Inferencia Estadística y Reconocimiento de Patrones"],
+    "correlativas": [
+      "Inferencia Estadística y Reconocimiento de Patrones"
+    ],
     "aprobada": [],
     "materiales": []
   },
@@ -230,8 +531,13 @@
     "nombre": "Metodologías Ágiles para el Desarrollo de Software",
     "anio": "3° Año",
     "cuatrimestre": "Segundo Cuatrimestre",
-    "correlativas": ["Programación Avanzada", "Gestión de Datos"],
-    "aprobada": ["Desarrollo de Software"],
+    "correlativas": [
+      "Programación Avanzada",
+      "Gestión de Datos"
+    ],
+    "aprobada": [
+      "Desarrollo de Software"
+    ],
     "materiales": []
   },
   {
