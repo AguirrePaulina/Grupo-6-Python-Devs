@@ -8,7 +8,7 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.11.3/font/bootstrap-icons.min.css"/>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="styles.css"/>
+  <link rel="stylesheet" href="/static/styles.css"/>
 </head>
 <body>
 
@@ -27,6 +27,9 @@
           <ul class="dropdown-menu" id="dropdown-carreras"></ul>
         </li>
         <li class="nav-item"><a class="nav-link" href="#biblioteca">Biblioteca</a></li>
+        <li class="nav-item d-none" id="nav-ulib-item">
+          <a class="nav-link" href="#sec-ulib"><i class="bi bi-person-lines-fill me-1"></i>Mi Biblioteca</a>
+        </li>
         <li class="nav-item d-none" id="nav-admin-item">
           <a class="nav-link" href="#sec-admin">Administración</a>
         </li>
@@ -114,6 +117,18 @@
 </section>
 
 <!-- ══ PANEL ADMIN ══════════════════════════════════════════ -->
+<!-- BIBLIOTECA PERSONAL -->
+<section id="sec-ulib" style="display:none;">
+  <div class="container">
+    <h2 class="sec-title"><i class="bi bi-person-lines-fill me-2 text-primary"></i>Mi Biblioteca Personal</h2>
+    <p class="sec-sub">Tus materias y materiales favoritos, y todo lo que ya viste</p>
+    <div id="ulib-body"><p class="text-muted">Cargando...</p></div>
+  </div>
+</section>
+
+<!-- PANEL ADMIN ARCHIVOS -->
+<section id="sec-admin-files" style="display:none; background:#f8f9fa;"></section>
+
 <section id="sec-admin" style="display:none;">
   <div class="container">
     <h2 class="sec-title">Panel de Administración</h2>
@@ -193,6 +208,6 @@
 <div id="toast-wrap"></div>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.2/js/bootstrap.bundle.min.js"></script>
-<script src="app.js"></script>
+<script src="/static/app.js"></script>
 </body>
 </html>
