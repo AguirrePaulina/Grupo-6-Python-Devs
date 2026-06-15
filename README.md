@@ -1,2 +1,2 @@
-# Portal-UNAB2
-Contiene otro buscador y más pdfs de CTI
+# Portal-UNAB1
+Versión finalizada del proyecto. Contiene todas las mejoras del sistema 
