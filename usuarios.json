@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Admin UNAB",
+      "email": "admin@unab.edu.ar",
+      "password": "60fe74406e7f353ed979f350f2fbb6a2e8690a5fa7d1b0c32983d1d8b3f95f67",
+      "role": "admin",
+      "carrera": null
+    },
+    {
+      "id": 2,
+      "name": "Juan Pérez",
+      "email": "estudiante@unab.edu.ar",
+      "password": "3b7d577e2e841153c1b6f71ec437e03ea134b219c9bd8375feb8d827808b9eea",
+      "role": "estudiante",
+      "carrera": "Tec. Programación"
+    },
+    {
+      "id": 3,
+      "name": "Juanito bla bla bla",
+      "email": "juanpablo.caveroapesteguia@gmail.com",
+      "password": "86e7a821c8464bd6ea58ef4859f60650108a029e79cd790100997ea0e431eaa0",
+      "role": "estudiante",
+      "carrera": "Tec. Programación"
+    },
+    {
+      "id": 4,
+      "name": "Patricia Andreucci",
+      "email": "luciadeburzaco@yahoo.com.ar",
+      "password": "ac32b45521260f4e2c31666aa3dbde0c47db0f5795474bac5778d0013e1ece16",
+      "role": "admin",
+      "carrera": ""
+    }
+  ]
+}
